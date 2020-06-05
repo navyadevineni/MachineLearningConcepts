@@ -1,23 +1,5 @@
 [Functions](https://docs.python.org/3/library/functions.html)
 
-[](https://docs.python.org/3/library/functions.html#sum)
-[](https://docs.python.org/3/library/math.html)
-[](https://docs.python.org/3/library/random.html)
-[](https://docs.python.org/3/library/random.html#random.shuffle)
-[](https://docs.python.org/3/library/collections.html)
-[](https://docs.scipy.org/doc/numpy/user/quickstart.html)
-[](https://docs.python.org/3/library/csv.html)
-[](https://docs.python.org/3/library/functions.html#open)
-[](https://codingbat.com/python)
-[](https://gist.github.com/curran/a08a1080b88344b0c8a7)
-[](https://deepmind.com/research/case-studies/alphago-the-story-so-far)
-[](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.corr.html)
-[](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
-[](https://numpy.org/doc/stable/reference/generated/numpy.linalg.inv.html)
-[](https://scikit-learn.org/stable/modules/cross_validation.html)
-[](https://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html)
-[](https://scikit-learn.org/stable/datasets/index.html)
-[](https://dreampuf.github.io/GraphvizOnline/)
 [Functions library](https://docs.python.org/3/library/functions.html#sum)
 
 [Math library](https://docs.python.org/3/library/math.html)
@@ -54,6 +36,24 @@
 
 [GraphvizOnline](https://dreampuf.github.io/GraphvizOnline/)
 
-[](https://scikit-learn.org/stable/modules/model_evaluation.html)
-[](https://scikit-learn.org/stable/auto_examples/svm/plot_linearsvc_support_vectors.html)
-[](https://scikit-learn.org/stable/modules/manifold.html)
+[Model_Evaluation](https://scikit-learn.org/stable/modules/model_evaluation.html)
+
+[SVC_Support_Vectors](https://scikit-learn.org/stable/auto_examples/svm/plot_linearsvc_support_vectors.html)
+
+[Manifold](https://scikit-learn.org/stable/modules/manifold.html)
+
+[Neural_Network](https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPClassifier.html#sklearn.neural_network.MLPClassifier)
+
+[Fonts](https://fontpair.co/)
+
+[InstitutionalGraphicStandards](https://www.nwmissouri.edu/marketing/pdf/design/InstitutionalGraphicStandards.pdf)
+
+[Style_Sheets_Reference](https://matplotlib.org/3.2.1/gallery/style_sheets/style_sheets_reference.html)
+
+[Matplotlib](https://matplotlib.org/3.2.1/api/_as_gen/matplotlib.pyplot.savefig.html)
+
+[Tensorflow](https://www.tensorflow.org/overview)
+
+[Keras](https://keras.io/)
+
+[Tensorflow_Quickstart](https://www.tensorflow.org/tutorials/quickstart/beginner)
