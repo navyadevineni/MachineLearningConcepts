@@ -1,4 +1,7 @@
 # MachineLearningConcepts
+[Youtube](https://www.youtube.com/playlist?list=PL0pbBM5fAzMy5XgP9F48x589Rn7rNyDRu)
+
+### Links in tutorials
 
 [repl.it](https://repl.it/languages/python3)
 
