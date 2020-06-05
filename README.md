@@ -1,3 +1,11 @@
+# MachineLearningConcepts
+
+[repl.it](https://repl.it/languages/python3)
+
+[Data structures](https://docs.python.org/3/tutorial/datastructures.html)
+
+[Markdown syntax](https://www.markdownguide.org/cheat-sheet/)
+
 [Functions](https://docs.python.org/3/library/functions.html)
 
 [Functions library](https://docs.python.org/3/library/functions.html#sum)
