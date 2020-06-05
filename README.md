@@ -44,14 +44,24 @@
 
 [GraphvizOnline](https://dreampuf.github.io/GraphvizOnline/)
 
-[](https://scikit-learn.org/stable/modules/model_evaluation.html)
-[](https://scikit-learn.org/stable/auto_examples/svm/plot_linearsvc_support_vectors.html)
-[](https://scikit-learn.org/stable/modules/manifold.html)
-[](https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPClassifier.html#sklearn.neural_network.MLPClassifier)
-[](https://fontpair.co/)
-[](https://www.nwmissouri.edu/marketing/pdf/design/InstitutionalGraphicStandards.pdf)
-[](https://matplotlib.org/3.2.1/gallery/style_sheets/style_sheets_reference.html)
-[](https://matplotlib.org/3.2.1/api/_as_gen/matplotlib.pyplot.savefig.html)
-[](https://www.tensorflow.org/overview)
-[](https://keras.io/)
-[](https://www.tensorflow.org/tutorials/quickstart/beginner)
+[Model_Evaluation](https://scikit-learn.org/stable/modules/model_evaluation.html)
+
+[SVC_Support_Vectors](https://scikit-learn.org/stable/auto_examples/svm/plot_linearsvc_support_vectors.html)
+
+[Manifold](https://scikit-learn.org/stable/modules/manifold.html)
+
+[Neural_Network](https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPClassifier.html#sklearn.neural_network.MLPClassifier)
+
+[Fonts](https://fontpair.co/)
+
+[InstitutionalGraphicStandards](https://www.nwmissouri.edu/marketing/pdf/design/InstitutionalGraphicStandards.pdf)
+
+[Style_Sheets_Reference](https://matplotlib.org/3.2.1/gallery/style_sheets/style_sheets_reference.html)
+
+[Matplotlib](https://matplotlib.org/3.2.1/api/_as_gen/matplotlib.pyplot.savefig.html)
+
+[Tensorflow](https://www.tensorflow.org/overview)
+
+[Keras](https://keras.io/)
+
+[Tensorflow_Quickstart](https://www.tensorflow.org/tutorials/quickstart/beginner)
