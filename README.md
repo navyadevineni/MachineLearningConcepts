@@ -1,5 +1,10 @@
 # MachineLearningConcepts
 
+
+[Youtube](https://www.youtube.com/playlist?list=PL0pbBM5fAzMy5XgP9F48x589Rn7rNyDRu)
+
+### Links from tutorials
+
 [repl.it](https://repl.it/languages/python3)
 
 [Data structures](https://docs.python.org/3/tutorial/datastructures.html)
